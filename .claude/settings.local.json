@@ -3,7 +3,12 @@
     "allow": [
       "Bash(python *)",
       "Bash(docker compose *)",
-      "Bash(curl *)"
+      "Bash(curl *)",
+      "Bash(pnpm --version)",
+      "Bash(npm install *)",
+      "Bash(pnpm install *)",
+      "Bash(pnpm build *)",
+      "Bash(pnpm typecheck *)"
     ]
   }
 }
